@@ -4,6 +4,6 @@
     "config:base"
   ],
   "argocd": {
-    "fileMatch": ["\\.yaml$"]
+    "fileMatch": ["\\.ya?ml$"]
   }
 }
